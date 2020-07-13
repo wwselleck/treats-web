@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["es5", "es6", "es7", "dom"],
+    "strict": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "jsx": "react"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@wwselleck/treats-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel index.html",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@types/react": "^16.9.42",
+    "@types/react-dom": "^16.9.8",
+    "postcss-modules": "^3.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "less": "^3.11.3",
+    "parcel": "^2.0.0-beta.1",
+    "typescript": "^3.9.6"
+  }
+}
